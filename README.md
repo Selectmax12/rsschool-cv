@@ -1,1 +1,1 @@
-https://Selectmax12.github.io/rsschool-cv/cv
+https://Selectmax12.github.io/rsschool-cv/
