@@ -1,0 +1,85 @@
+html {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    
+}
+nav{
+
+    background-color:#B0E0E6
+}
+nav .lists {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    color:black;
+    
+}
+.page{
+   max-width: 1140px;
+    margin: 0 auto;
+    flex-direction: column;
+    justify-content: space-between;
+}
+#block{
+    display: flex;
+    margin: 0 auto;
+    
+        
+}
+
+#block .block_left{
+order: -1;
+flex: 0 0 500px;
+width: 400px;
+text-align: center;
+}
+#block .block_right{
+    flex: 0 0 500px;
+    width: 400px;
+    
+
+}
+h1{
+    border: ;
+}
+section{
+  background-color: #E0FFFF; 
+}
+
+#part5,
+#part8
+{
+    background-color:white;
+}
+.footer{
+    background-color:#B0E0E6;
+    height: 50px;
+}
+    
+.lists {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: 0;
+    padding: 0;
+    list-style: none;}
+    .school-logo{
+    width: 170px;
+    height: 28px;
+}
+footer a,
+footer li
+{
+    color:black;
+    font-weight:bold;
+}
+    
